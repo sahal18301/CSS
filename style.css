@@ -1,0 +1,21 @@
+ body{ background-color: burlywood;
+
+
+      }
+       
+        #tree{
+
+           font-size: 20px;
+           text-transform: lowercase;
+         
+        }
+
+        *{
+            background-color: beige;
+        }
+        
+        .shared_styling{ 
+            background-color: aqua;
+
+        }
+        
