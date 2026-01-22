@@ -1,0 +1,23 @@
+h1{
+    border-style: solid;
+    border-width:10px;
+    border-color: cornflowerblue;
+    border-radius: 20px;
+    border-left-color:blueviolet ;
+    border-right-color:blueviolet;
+    outline-style: dashed;
+    outline-width: 5px;
+    outline-color:blueviolet;
+    outline-offset: 5px;
+
+
+}
+
+/* p{
+  border-style: dashed;
+} */
+
+/* div{
+    border-style: dotted;
+} */
+

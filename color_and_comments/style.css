@@ -1,0 +1,21 @@
+
+h1{
+    /* using color names */
+    /* color: green; */
+    /* rgb */
+    /* color: rgb(250,120,100); */
+     
+    color: #df50df;;
+}
+body{
+    background-color: rgb(0,0,0);
+}
+div{
+    color: #df50df;
+    text-transform: uppercase;
+    height: 200px;
+    width:200px;
+    background-color: rgba(255,20,255,0.3);
+    /* opacity: 20%; */
+    
+}
