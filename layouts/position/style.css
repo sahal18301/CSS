@@ -1,0 +1,9 @@
+div{
+border-style: solid;
+height: 200px;
+width: 200px;
+color: rgb(12, 140, 140);
+border-width:20px;
+border-radius: 40px;
+margin: 20px;
+}
